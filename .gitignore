@@ -1,0 +1,13 @@
+__pycache__
+dataset
+weights
+iou3d/__pycache__
+iou3d/build
+iou3d/dist
+iou3d/iou3d.egg-info
+logs
+results
+pointnet2_ops_lib/pointnet2_ops/__pycache__
+pointnet2_ops_lib/build
+pointnet2_ops_lib/dist
+pointnet2_ops_lib/pointnet2_ops.egg-info
