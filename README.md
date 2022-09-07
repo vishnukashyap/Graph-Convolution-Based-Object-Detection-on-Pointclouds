@@ -40,7 +40,7 @@ The following folder structure is assumed by the code base during training.
   - loss.py : This file contains the loss calculation functions.
   - PointGCN.py : This file contains the class which defines the network architecture.
   - pred2label.py : This file converts predictions which are stored in .pt format to json files.
-  - spatialGraphConv.py : This file contains the class definition for the spatial graph convolution layer which is as per the paper "Name of the paper"
+  - spatialGraphConv.py : This file contains the class definition for the spatial graph convolution layer.
   - test.py : This file contains the function for validation
   - train.py : This file trains the model.
 
